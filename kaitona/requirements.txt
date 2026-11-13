@@ -1,0 +1,5 @@
+# Pinned for the VibeVoice voice-cloning TTS on Google Colab (Python 3.11+, torch preinstalled).
+transformers==5.22.2
+diffusers==0.35.2
+accelerate==1.15.0
+soundfile==0.14.0
